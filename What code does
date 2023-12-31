@@ -1,0 +1,3 @@
+Program named putting_0_Inbetween,,.py takes the blank space between two commas and adds a Nan and then it adds the data under a custom header, deletes desired columns, and appends it to a file.
+
+Program name putting_0_Inbetween,,2.py does the same thing but just takes the blank space between two commas and deletes columns, which then rewrites the same file with the new data
